@@ -4,5 +4,5 @@
 
 function doThings(things) {
     things.setStatus("I CAN DO IT!")
-    return false;
+    return true;
 }
