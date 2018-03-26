@@ -17,3 +17,6 @@ function doImportantThings(todo) {
     }
 }
         
+function doNothing() {
+    return false;
+}
