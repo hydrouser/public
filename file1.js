@@ -11,9 +11,9 @@ function doImportantThings(todo) {
     if ( todo.getStatus("NEED TO BE DONE") == true ) {
         var things = todo.getThings("NEED TO BE DONE");
         things.do( { quickly: "please" } );
-    } else {
         patMyselfOnTheBack();
-        brag();
+        return brag();
+    } else {
+        return [ wink(wink()), nudge(nudge()), say("no more!") ]; 
     }
 }
-        
