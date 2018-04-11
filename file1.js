@@ -16,4 +16,8 @@ function doImportantThings(todo) {
         brag();
     }
 }
+
+function saveTheWhales() {
+    // TODO
+}
         
