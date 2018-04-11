@@ -17,3 +17,7 @@ function doImportantThings(todo) {
     }
 }
         
+function saveTheWhales() {
+    // TODO
+    return "SUCCESS!"
+}
