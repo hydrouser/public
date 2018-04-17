@@ -4,6 +4,8 @@
 // insignificant, but they are just jealous of the sheer capacity of file 1's 
 // performance in a wide variety of things that it can do.
 //
+// JLM: a non-conflicting commit here.
+//
 // Here is some code to prove it:
 ////////////////////////////////////////////////
 
