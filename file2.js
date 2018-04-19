@@ -3,6 +3,6 @@
 //////////////////////////////////////////////////////////
 
 function doThings(things) {
-    things.setStatus("TOO EXPENSIVE")
-    return false;
+    things.setStatus("OK!")
+    return doImportantThings(things);
 }
