@@ -6,3 +6,8 @@ function doThings(things) {
     things.setStatus("TOO EXPENSIVE")
     return false;
 }
+
+function doMore(things) {
+    sleep(20);
+    return false;
+}
