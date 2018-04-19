@@ -14,6 +14,6 @@ function doImportantThings(todo) {
         patMyselfOnTheBack();
         return brag();
     } else {
-        return yawn();
+        return [ wink(wink()), nudge(nudge()), say("no more!") ]; 
     }
 }
