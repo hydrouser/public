@@ -13,8 +13,10 @@ function doImportantThings(todo) {
         things.do( { quickly: "please" } );
     } else {
         patMyselfOnTheBack();
-        brag();
+        doNotBrag();
     }
 }
+
+// Add a function here
         
 // don't add a function here
