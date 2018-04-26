@@ -12,8 +12,8 @@ function doImportantThings(todo) {
         var things = todo.getThings("NEED TO BE DONE");
         things.do( { quickly: "please" } );
     } else {
-        patMyselfOnTheBack();
-        brag();
+        patMyselfOnTheBack(brag());
+        //brag();
     }
 }
         
