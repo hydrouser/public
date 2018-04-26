@@ -16,4 +16,8 @@ function doImportantThings(todo) {
         brag();
     }
 }
+
+function newFunction() {
+    // TODO
+}
         
