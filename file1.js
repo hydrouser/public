@@ -13,7 +13,11 @@ function doImportantThings(todo) {
         things.do( { quickly: "please" } );
     } else {
         patMyselfOnTheBack();
-        brag();
+        brag(true);
     }
+}
+
+function newFunction() {
+    // TODO
 }
         
