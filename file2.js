@@ -3,6 +3,10 @@
 //////////////////////////////////////////////////////////
 
 function doThings(things) {
-    things.setStatus("TOO EXPENSIVE")
+    things.setStatus("I WILL SOON")
     return false;
+}
+
+function stub() {
+    //TODO
 }
