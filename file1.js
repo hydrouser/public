@@ -16,4 +16,8 @@ function doImportantThings(todo) {
         brag();
     }
 }
-        
+
+function doMoreThings(bigList) {
+    for thing in bigList:
+        doImportantThings(thing)
+}       
